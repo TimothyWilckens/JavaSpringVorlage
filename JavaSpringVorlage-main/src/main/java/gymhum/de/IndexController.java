@@ -1,7 +1,3 @@
-/*
- * Der IndexController dient dazu, deine Hauptseiten zu steuern. Hier erstellst du entsprechende Links für die einzelnen Unterseiten. Später werden aber noch andere Controller dazukommen, um Daten zu verwalten. 
- * 
- */
 package gymhum.de;
 
 import org.springframework.stereotype.Controller;
